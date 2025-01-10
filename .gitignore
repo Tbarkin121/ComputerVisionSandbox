@@ -1,3 +1,11 @@
+#Custom Ignores
+datasets/
+har_organized_dataset/
+runs/
+yolo11n-pose_saved_model/
+*.onnx
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

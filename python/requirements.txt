@@ -1,0 +1,6 @@
+#pytorch
+opencv-python
+numpy
+pandas
+requests
+ultralytics
